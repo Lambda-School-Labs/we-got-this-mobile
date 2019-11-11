@@ -1,0 +1,36 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>CLIENT_ID</key>
+	<string>566987245774-e3s3a5j4tc5i6bsm1o4vhkruas3p83hc.apps.googleusercontent.com</string>
+	<key>REVERSED_CLIENT_ID</key>
+	<string>com.googleusercontent.apps.566987245774-e3s3a5j4tc5i6bsm1o4vhkruas3p83hc</string>
+	<key>API_KEY</key>
+	<string>AIzaSyC-xGAJRP2QVAvvyRGrLvvEW2pAbJnvlYM</string>
+	<key>GCM_SENDER_ID</key>
+	<string>566987245774</string>
+	<key>PLIST_VERSION</key>
+	<string>1</string>
+	<key>BUNDLE_ID</key>
+	<string>com.luxify.app</string>
+	<key>PROJECT_ID</key>
+	<string>we-got-this-d3ae2</string>
+	<key>STORAGE_BUCKET</key>
+	<string>we-got-this-d3ae2.appspot.com</string>
+	<key>IS_ADS_ENABLED</key>
+	<false></false>
+	<key>IS_ANALYTICS_ENABLED</key>
+	<false></false>
+	<key>IS_APPINVITE_ENABLED</key>
+	<true></true>
+	<key>IS_GCM_ENABLED</key>
+	<true></true>
+	<key>IS_SIGNIN_ENABLED</key>
+	<true></true>
+	<key>GOOGLE_APP_ID</key>
+	<string>1:566987245774:ios:929d57eaa09835d4a4e89f</string>
+	<key>DATABASE_URL</key>
+	<string>https://we-got-this-d3ae2.firebaseio.com</string>
+</dict>
+</plist>
